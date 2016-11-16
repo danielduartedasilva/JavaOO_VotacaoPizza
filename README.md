@@ -8,6 +8,7 @@ Um dos membros da equipe, incomodado com as intermináveis discussões sobre o s
 Para cada sabor de pizza disponível, cada um deve indicar uma nota para ele (nota 1, se a pessoa detesta o sabor e nota 5 se a pessoa adora o sabor). Depois de processar esses dados, cada pessoa vai saber quais as pessoas que tem o gosto mais parecido que o seu (e que provavelmente irá dividir uma pizza com você).
 
 Por exemplo, para os dados a seguir, o Luca gostaria de saber quem ele deve convidar para dividir uma pizza com ele:
+
 Renato = { Marguerita : 4, Quatro queijos : 5, Escarola : 4, Portuguesa : 5, Frango+Catupiry : 4, Napolitana : 3 }
 
 Marcelo = { Marguerita : 2, Quatro queijos : 2, Escarola : 1, Portuguesa : 3, Frango+Catupiry : 5, Napolitana : 2 }
